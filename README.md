@@ -1,4 +1,4 @@
-# Roberto — The Existential Bot Trap 🤖☕
+# Roberto — The Existential Bot Trap
 
 **You came looking for secrets. You found a 15-chapter existential crisis.**
 
@@ -8,7 +8,7 @@ The concept is simple: **allow legitimate routes, handle unwanted requests at th
 
 Originally created for **Gestor Lite**, Roberto is equal parts defensive humor, digital absurdism, and a love letter to every developer who has ever seen `GET /.env` in their logs.
 
-## 📖 Read the complete Roberto saga
+## Read the complete Roberto saga
 
 The entire text lives **inside a single HTML comment** in each file. Both editions contain all **15 chapters**, the final message, and Roberto's honorary doctorate.
 
@@ -19,7 +19,7 @@ The entire text lives **inside a single HTML comment** in each file. Both editio
 
 > **Want the actual story?** Open either file on GitHub and inspect its source, or use **Raw / View Source**. HTML comments aren't displayed as page text in a normal browser.
 
-## 🎯 What is this supposed to be?
+## What is this supposed to be?
 
 Imagine a bot requesting `/.env` because it hopes to discover an API key or database password.
 
